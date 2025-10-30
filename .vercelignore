@@ -1,0 +1,28 @@
+# Data and analysis files (not needed for deployment)
+# NOTE: public/data/ is REQUIRED for the app to work!
+# Only exclude the root data/ directory (analysis files)
+/data/
+outputs/
+dashboard/
+*.csv
+*.parquet
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.wls
+*.mx
+
+# Python files
+*.py
+__pycache__/
+requirements.txt
+
+# Documentation
+*.md
+!README.md
+
+# Git
+.git/
+.gitignore

@@ -1,0 +1,19 @@
+{
+  "total_observations": 20201,
+  "total_counties": 3373,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "avg_drug_deaths": 51.34757378689345,
+  "avg_suicide_deaths": 30.965358255451715,
+  "avg_correlation": -0.2694098843262918,
+  "completeness": {
+    "drug_deaths_pct": 49.477748626305626,
+    "political_pct": 93.64882926587794
+  }
+}

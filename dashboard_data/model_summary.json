@@ -1,0 +1,24 @@
+{
+  "n_observations": 6379,
+  "n_counties": 1654,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "main_findings": {
+    "republican_margin_effect": -0.007090648863270566,
+    "republican_margin_pvalue": 4.112634214868255e-22,
+    "interpretation": "Negative coefficient = Higher Republican margin associated with LOWER drug deaths (controlled for SES)"
+  },
+  "descriptive_stats": {
+    "avg_drug_deaths": 75.3139990594137,
+    "avg_suicide_deaths": 37.10126979150337,
+    "avg_republican_margin": 19.467680468954374,
+    "avg_unemployment": 4.363630663113341,
+    "avg_poverty": 12.937372628938705
+  }
+}

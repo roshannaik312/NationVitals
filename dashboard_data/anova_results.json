@@ -1,0 +1,30 @@
+{
+  "anova_table": {
+    "sum_sq": {
+      "C(TimePeriod)": 132055.1399175467,
+      "C(PoliticalLean)": 30577.795852575735,
+      "C(TimePeriod):C(PoliticalLean)": 1499.772953236205,
+      "Residual": 2572137.9542777548
+    },
+    "df": {
+      "C(TimePeriod)": 1.0,
+      "C(PoliticalLean)": 2.0,
+      "C(TimePeriod):C(PoliticalLean)": 2.0,
+      "Residual": 6373.0
+    },
+    "F": {
+      "C(TimePeriod)": 327.1937281959821,
+      "C(PoliticalLean)": 37.88138436439045,
+      "C(TimePeriod):C(PoliticalLean)": 1.8579977436821022,
+      "Residual": NaN
+    },
+    "PR(>F)": {
+      "C(TimePeriod)": 2.3366783802263126e-71,
+      "C(PoliticalLean)": 4.4192146382114996e-17,
+      "C(TimePeriod):C(PoliticalLean)": 0.1560691236406127,
+      "Residual": NaN
+    }
+  },
+  "group_means": {
+    "mean": {
+      
