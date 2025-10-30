@@ -1,6 +1,6 @@
 # NationVitals - County Health and Political Analysis Dashboard
 
-Hi, I am Roshan Naik and this is my submission for the Congressional App Challenge 2025 . This is an interactive map visualization showing county-level correlations between political leanings and drug overdose deaths across the United States (2018-2023).
+Hi, I am Roshan Naik and this is my submission for the Congressional App Challenge 2025 . This is an interactive map visualization showing county-level correlations between political leanings and drug overdose deaths across the United States (2018-2023). 
 
 You can test it at the link to the right - https://nation-vitals.vercel.app/
 
